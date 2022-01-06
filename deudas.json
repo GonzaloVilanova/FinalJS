@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cencosud",
+    "deuda": 15000,
+    "imagen": "./assets/cenco.png",
+    "anio": 2015
+  },
+  {
+    "id": 2,
+    "nombre": "Vivus",
+    "deuda": 23000,
+    "imagen": "./assets/vivus.jpg",
+    "anio": 2017
+  },
+  {
+    "id": 3,
+    "nombre": "Cencosud",
+    "deuda": 14500,
+    "imagen": "./assets/cenco.png",
+    "anio": 2011
+  },
+  {
+    "id": 4,
+    "nombre": "Tarjeta Naranja",
+    "deuda": 75000,
+    "imagen": "./assets/naranja.png",
+    "anio": 2015
+  },
+  {
+    "id": 5,
+    "nombre": "Cencosud",
+    "deuda": 17455,
+    "imagen": "./assets/cenco.png",
+    "anio": 2021
+  },
+  {
+    "id": 6,
+    "nombre": "Vivus",
+    "deuda": 20455,
+    "imagen": "./assets/vivus.jpg",
+    "anio": 2020
+  },
+  {
+    "id": 7,
+    "nombre": "Cencosud",
+    "deuda": 100,
+    "imagen": "./assets/cenco.png",
+    "anio": 2009
+  }
+]
